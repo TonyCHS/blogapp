@@ -12,7 +12,7 @@ import {
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import axios from "axios";
 
-const API = "https://http://tonychspcmob5.pythonanywhere.com/";
+const API = "https://tonychspcmob5.pythonanywhere.com/";
 const API_LOGIN = "/auth";
 
 export default function SignInScreen({ navigation }) {
